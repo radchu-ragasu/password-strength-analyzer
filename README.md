@@ -1,4 +1,4 @@
-Password Strength Checker
+Password Strength Checker....
 
 A simple Python program that checks the strength of a password based on length, character variety, and special characters.
 
